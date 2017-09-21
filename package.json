@@ -1,9 +1,10 @@
 {
   "name": "pyramid-proportion",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "lib/jquery-pyramid-proportion.js",
   "scripts": {
+    "build": "gulp jsmin",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -16,5 +17,13 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
   }
 }
