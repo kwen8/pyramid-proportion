@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style type="text/css">
+		.tri {
+			height: 200px;
+		}
+	</style>
+</head>
+<body>
+	<div class="tri"></div>
+	<script src="../node_modules/jquery/dist/jquery.min.js"></script>
+	<script src="../lib/jquery-pyramid-proportion.js"></script>
+	<script type="text/javascript">
+		$(".tri").pyramid({
+			proportion: [50, 20, 10, 10, 10]
+		})
+	</script>
+</body>
+</html>
