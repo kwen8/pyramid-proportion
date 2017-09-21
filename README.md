@@ -31,8 +31,8 @@
 ### Install
 You can copy and include any of the following file:
 
-* [lib/jquery-pyramid-proportion.js](https://raw.githubusercontent.com/micku7zu/vanilla-tilt.js/master/dist/vanilla-tilt.js) ~ 2kb
-* [lib/jquery-pyramid-proportion.min.js](https://raw.githubusercontent.com/micku7zu/vanilla-tilt.js/master/dist/vanilla-tilt.min.js) ~ 1kb
+* [lib/jquery-pyramid-proportion.js](https://raw.githubusercontent.com/kwen8/pyramid-proportion/master/lib/jquery-pyramid-proportion.js) ~ 2kb
+* [lib/jquery-pyramid-proportion.min.js](https://raw.githubusercontent.com/kwen8/pyramid-proportion/master/lib/jquery-pyramid-proportion.min.js) ~ 1kb
 
 #### NPM
 
